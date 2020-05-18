@@ -1,7 +1,7 @@
 
 /*
-Copyright (C): 2010-2019, Shenzhen Yahboom Tech
-modified from liusen
+Copyright (C): 2020, Ekits limited
+modified from sk cheung
 load dependency
 "piano": "file:../pxt-piano"  
 */
